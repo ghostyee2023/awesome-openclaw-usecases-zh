@@ -15,7 +15,7 @@
 
 ## 所需技能
 
-[openclaw-channel-dingtalk](https://github.com/soimy/openclaw-channel-dingtalk)（@soimy/dingtalk）—— 社区维护的钉钉通道插件，799+ stars，活跃更新中。
+[openclaw-channel-dingtalk](https://github.com/soimy/openclaw-channel-dingtalk)（@soimy/dingtalk）—— 社区维护的钉钉通道插件
 
 ## 如何设置
 
